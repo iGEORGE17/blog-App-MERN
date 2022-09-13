@@ -1,1 +1,0 @@
-const message = "look at us"
